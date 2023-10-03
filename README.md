@@ -1,6 +1,6 @@
 # E-Commerce Website with Django
 
-![Object Detection Example](Screenshot 2023-10-03 140721.png))
+![Example Image](example.png)
 ## Project Overview
 
 This is an e-commerce website built using Django, a high-level Python web framework. The project provides a platform for buying and selling products online.
