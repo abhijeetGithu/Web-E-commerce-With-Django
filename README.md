@@ -49,7 +49,7 @@ All content displayed on the website, including product information, will be man
 
 ### Adding New Entries
 
-1. **Products**: You can easily add new products to the website by accessing the admin panel at `http://localhost:8000/admin/`. Log in with your superuser credentials, navigate to the "Products" section, and click "Add Product." Here, you can provide the following information for each product:
+1. **Products**: You can easily add new products to the website by accessing the admin panel at `http://localhost:8000/admin/`. Log in with your superuser credentials, navigate to the "Features" section, and click "Add Feature." Here, you can provide the following information for each product:
 
    - **Name**: The name of the product.
    - **Detail**: A description or details about the product.
