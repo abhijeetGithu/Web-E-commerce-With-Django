@@ -47,6 +47,6 @@ python manage.py runserver
 Contributions to this project are welcome. If you have any bug fixes, improvements, or new features to propose, please submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details .
 
 
