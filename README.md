@@ -43,12 +43,10 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-##Contributing
+## Contributing
 Contributions to this project are welcome. If you have any bug fixes, improvements, or new features to propose, please submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
-# Start the development server
-python manage.py runserver
