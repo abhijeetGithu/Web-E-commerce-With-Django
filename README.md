@@ -15,6 +15,8 @@ This is an e-commerce website built using Django, a high-level Python web framew
 - Product Search and Filtering
 - Admin Dashboard for Managing Products and Orders
 
+![Example Image](e-commerce-2.png)
+
 ## Installation
 
 Follow these steps to run the project locally:
